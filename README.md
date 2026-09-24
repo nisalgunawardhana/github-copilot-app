@@ -2,6 +2,9 @@
 
 ![GitHub Copilot App banner](images/github-app-banner.jpg)
 
+[![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow&style=social)](https://github.com/nisalgunawardhana)
+[![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/Github-for-beginners?style=social)](https://github.com/nisalgunawardhana/Github-for-beginners/stargazers)
+
 A personal learning repository built from the official [GitHub Copilot App workshop](https://github-samples.github.io/copilot-workshops/app/).
 
 The GitHub Copilot app is a desktop application built on Copilot CLI that brings agent-driven development into a single, focused workspace. It adds parallel agent sessions, switchable session modes, shared canvases, and native GitHub issue and pull request management — including **Agent Merge**, which shepherds a pull request through rebases, review feedback, CI fixes, and merge.
