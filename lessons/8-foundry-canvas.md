@@ -7,8 +7,6 @@
 
 This optional workshop section introduces a **Backer Concierge** feature for the demo-student-management-system project using Microsoft Foundry Canvas within GitHub Copilot. The journey progresses through three modules, each providing a checkpoint and safe stopping point.
 
-> This module follows the official workshop closely, including its Azure resource naming (`rg-tailspin-toys`). If you work through it against `demo-student-management-system`, feel free to name your resource group to match your own project instead.
-
 ## The Three-Module Journey
 
 1. **Prepare Project and Model** — establishes catalog boundaries, creates the Foundry project and model deployment, and validates them in Canvas
@@ -28,7 +26,7 @@ You must remove Azure resources to avoid charges. The guide provides terminal co
 - Stopping local services and servers
 - Running `azd down --purge` for hosted agent deployments
 - Verifying subscription and resource group status
-- Deleting the dedicated workshop resource group (`rg-tailspin-toys`)
+- Deleting the dedicated workshop resource group (`rg-demo-student-management-system`)
 
 ## Next Steps
 
