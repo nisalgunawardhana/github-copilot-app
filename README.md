@@ -3,7 +3,7 @@
 ![GitHub Copilot App banner](images/github-app-banner.jpg)
 
 [![Follow me on GitHub](https://img.shields.io/github/followers/nisalgunawardhana?label=Follow&style=social)](https://github.com/nisalgunawardhana)
-[![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/Github-for-beginners?style=social)](https://github.com/nisalgunawardhana/Github-for-beginners/stargazers)
+[![Star this repo](https://img.shields.io/github/stars/nisalgunawardhana/github-copilot-app?style=social)](https://github.com/nisalgunawardhana/github-copilot-app/stargazers)
 
 A personal learning repository built from the official [GitHub Copilot App workshop](https://github-samples.github.io/copilot-workshops/app/).
 
