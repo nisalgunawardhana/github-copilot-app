@@ -15,7 +15,7 @@ This lesson introduces building features using the GitHub Copilot app's Autopilo
 
 ## Scenario
 
-The sample project's homepage displays all games without filtering options. The requirement is to implement category and publisher filters using Copilot.
+The demo-student-management-system homepage displays all students without filtering options. The requirement is to implement class and status filters using Copilot.
 
 ## Development Process Framework
 
@@ -57,13 +57,13 @@ After plan approval, select an approval option like **Approve and implement with
 
    ![The session panel tabs in the GitHub Copilot app with an arrow pointing to the Changes tab](../images/lesson3-select-changes.webp)
 
-2. Examine the new TypeScript, Astro, and test files
+2. Examine the new TypeScript, React, and test files
 3. Verify TSDoc comments and file headers match established documentation standards
 4. Open the terminal to run the dev server
 
    ![The Terminal button in the review panel of the GitHub Copilot app](../images/lesson2-terminal.webp)
 
-5. Test the feature at `http://localhost:4321`
+5. Test the feature at `http://localhost:3000`
 6. Stop the server with `Ctrl+C`
 
 ## Agent Skills Introduction

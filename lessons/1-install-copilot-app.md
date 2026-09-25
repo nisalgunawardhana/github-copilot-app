@@ -24,7 +24,7 @@ A team is adopting AI agents to manage a growing backlog. The Copilot app serves
 2. Download the version matching your operating system (Windows, macOS, or Linux)
 3. Launch the application after installation
 4. Select **Sign in to GitHub** and complete authentication
-5. Choose the Tailspin Toys repository during setup
+5. Choose your `demo-student-management-system` fork during setup
 6. Select your theme preferences and complete onboarding
 
 ## Workspace Navigation
@@ -36,13 +36,13 @@ The sidebar contains four main sections:
 - **My work** — native GitHub integration displaying issues and pull requests
 - **Automations** — scheduled or on-demand agent tasks
 
-## Pre-populated Backlog
+## Backlog
 
-The template seeds eight issues, with three highlighted in this lesson:
+The official workshop's Tailspin Toys template seeds a backlog of issues automatically. Since `demo-student-management-system` is a fork rather than a template instance, create a few issues yourself to follow along, for example:
 
-- Allow users to filter games by category and publisher
+- Allow users to filter students by class or status
 - Update repository coding standards
-- Implement pagination on the game list page
+- Implement pagination on the student list page
 
 ## Quick Chat Feature
 

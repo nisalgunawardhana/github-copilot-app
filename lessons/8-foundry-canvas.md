@@ -5,7 +5,9 @@
 
 ## Overview
 
-This optional workshop section introduces a **Backer Concierge** feature for Tailspin Toys using Microsoft Foundry Canvas within GitHub Copilot. The journey progresses through three modules, each providing a checkpoint and safe stopping point.
+This optional workshop section introduces a **Backer Concierge** feature for the demo-student-management-system project using Microsoft Foundry Canvas within GitHub Copilot. The journey progresses through three modules, each providing a checkpoint and safe stopping point.
+
+> This module follows the official workshop closely, including its Azure resource naming (`rg-tailspin-toys`). If you work through it against `demo-student-management-system`, feel free to name your resource group to match your own project instead.
 
 ## The Three-Module Journey
 

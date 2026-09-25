@@ -9,7 +9,7 @@ This lesson teaches about **Agent Merge**, a feature that automates pull request
 
 ## Scenario
 
-Tailspin Toys seeks automation for merging vetted and validated pull requests to accelerate development workflows.
+The demo-student-management-system project seeks automation for merging vetted and validated pull requests to accelerate development workflows.
 
 ## Key Concepts
 

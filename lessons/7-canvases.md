@@ -5,7 +5,7 @@
 
 ## Overview
 
-This lesson teaches how to use canvases — shared, interactive surfaces for work artifacts — within the GitHub Copilot app. The focus is on creating a Kanban board to triage issues for the Tailspin Toys project.
+This lesson teaches how to use canvases — shared, interactive surfaces for work artifacts — within the GitHub Copilot app. The focus is on creating a Kanban board to triage issues for the demo-student-management-system project.
 
 ## Learning Objectives
 
@@ -16,7 +16,7 @@ This lesson teaches how to use canvases — shared, interactive surfaces for wor
 
 ## Scenario
 
-The Tailspin Toys development team seeks a tool to quickly triage issues and begin work within the Copilot app, addressing the challenge of managing a daunting list of issues.
+The demo-student-management-system development team seeks a tool to quickly triage issues and begin work within the Copilot app, addressing the challenge of managing a daunting list of issues.
 
 ## Canvas Definition
 
@@ -36,7 +36,7 @@ Canvases prove valuable "when a task needs structure, iteration, and verificatio
 
 ### Creating the Canvas
 
-1. Launch the Copilot app and select the `tailspin-toys` repository
+1. Launch the Copilot app and select your `demo-student-management-system` repository
 2. Provide a prompt requesting a Kanban board highlighting the three most urgent issues, with descriptions and justification, plus remaining items below, with buttons to add issues to the current context
 
 ### Saving and Merging

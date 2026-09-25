@@ -23,7 +23,7 @@ This lesson teaches how to use instruction files to guide GitHub Copilot's behav
 
 ## Scenario
 
-Tailspin Toys is establishing development guidelines requiring TSDoc comments and enforced formatting standards.
+The demo-student-management-system project is establishing development guidelines requiring TSDoc comments and enforced formatting standards.
 
 ## Best Practices
 

@@ -7,7 +7,7 @@
 
 This lesson teaches you how to start your first agent session in the GitHub Copilot app and implement a small feature change.
 
-You'll work with the Tailspin Toys project to add star rating displays to game cards on the home page. The ratings already exist in the game data but aren't currently shown on the cards.
+> The screenshots below are from the official workshop and show Tailspin Toys (game cards, star ratings). In this repo we work with `demo-student-management-system` instead — the same session workflow applies to a small change on the student list, such as adding a status badge to each student card.
 
 ## Key Concepts
 
@@ -15,11 +15,11 @@ A **session** is a conversation with an agent that runs in its own isolated work
 
 ## Implementation Steps
 
-1. Start a new session with the repository selector set to `tailspin-toys`
+1. Start a new session with the repository selector set to your `demo-student-management-system` fork
 
    ![The GitHub Copilot app prompt box with the repository selector set to tailspin-toys and the model selector shown beneath the prompt](../images/lesson2-start-session.webp)
 
-2. Request the feature with a specific prompt that identifies the file to modify (`src/components/GameCard.astro`). Ask the agent to show each game's star rating, or display "No rating yet" when the rating is null.
+2. Request the feature with a specific prompt that identifies the file to modify (e.g. the student card component). Ask the agent to show each student's status, or display "No status set" when the field is empty.
 
 3. After Copilot generates code, review the changes in the diff view. The expected output includes conditional rendering logic that displays ratings with styling or a fallback message. Use the **Toggle review panel** button to open the diff view.
 
@@ -35,7 +35,7 @@ Use the built-in terminal to run the dev server and verify changes work in the b
 npm run dev
 ```
 
-Open `http://localhost:4321` to confirm the star ratings render correctly.
+Open `http://localhost:3000` to confirm the change renders correctly.
 
 Then:
 

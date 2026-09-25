@@ -15,7 +15,7 @@ Across these lessons you'll install the app and set up your project, then get or
 
 | # | Lesson | Topic | Description |
 |---|--------|-------|-------------|
-| 0 | [Prerequisites](lessons/0-prerequisites.md) | Setup | Install Node.js and create your copy of the Tailspin Toys project |
+| 0 | [Prerequisites](lessons/0-prerequisites.md) | Setup | Install Node.js and create your copy of the demo-student-management-system project |
 | 1 | [Install the Copilot app](lessons/1-install-copilot-app.md) | Setup | Install the app, connect your project, and get oriented in the workspace |
 | 2 | [Running your first agent session](lessons/2-add-star-rating.md) | First change | Start a session and ship a small change as your first pull request |
 | 3 | [Guiding Copilot with custom instructions](lessons/3-custom-instructions.md) | Context | Add a documentation standard from an issue and merge it |
@@ -42,7 +42,7 @@ If you are using Copilot Business or Copilot Enterprise, your administrator must
 
 ## Demo Project
 
-The official workshop uses its own Tailspin Toys sample (see [Lesson 0](lessons/0-prerequisites.md)), but if you'd like a smaller, quicker project to practice the same workflow on, use this demo instead:
+The official workshop uses its own Tailspin Toys sample, but the lessons in this repo are written against a smaller, quicker project instead:
 
 **[demo-student-management-system](https://github.com/nisalgunawardhana/demo-student-management-system)** — a small Next.js CRUD demo (students, `data.json`) built specifically for trying out the GitHub Copilot app.
 
@@ -51,9 +51,9 @@ To use it:
 1. Open the repo and select **Fork** (top right) to create your own copy
 2. Clone your fork locally and run `npm install`
 3. Open the GitHub Copilot app and add your forked repository (see [Lesson 1](lessons/1-install-copilot-app.md))
-4. Work through the lessons against this project instead of — or alongside — Tailspin Toys: start a session, ask Copilot to add a feature (e.g. a new field or filter on the student list), review the diff, test with `npm run dev`, and open a PR
+4. Work through the lessons against this project: start a session, ask Copilot to add a feature (e.g. a new field or filter on the student list), review the diff, test with `npm run dev`, and open a PR
 
-This gives you a low-stakes repo to experiment with sessions, Plan/Autopilot modes, custom instructions, and Agent Merge without needing the full Tailspin Toys setup.
+This gives you a low-stakes repo to experiment with sessions, Plan/Autopilot modes, custom instructions, and Agent Merge. If you'd rather follow the official workshop exactly, see [Lesson 0](lessons/0-prerequisites.md) for the Tailspin Toys setup instead.
 
 ## Repository Structure
 
